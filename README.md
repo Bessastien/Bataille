@@ -1,0 +1,1 @@
+Ceci est une simulation de bataille codé pour un projet scolaire de la spécialité NSI pour le 22 décembre 2023. Nous avons commencé de 0, le but de ce projet était d'apprendre à coder en python et d’utiliser les la POO.
